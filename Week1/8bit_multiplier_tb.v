@@ -1,0 +1,18 @@
+module multiplier_8bit_tb;
+reg [7:0] a;
+reg [7:0] b;
+wire [15:0] result ;
+
+multiplier_8bit dut(
+.a(a),
+.b(b),
+.result(result)
+);
+
+initial begin
+a=8'd10; b = 8'd20; #10;
+a=8'd15; b = 8'd30; #10;
+
+$finish;
+end
+endmodule

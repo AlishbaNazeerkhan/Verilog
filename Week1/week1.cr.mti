@@ -1,0 +1,78 @@
+{C:/Alishbas folder/PSEB/Verilog/Week1/8bit_adder.v} {1 {vlog -work work -vopt -stats=none {C:/Alishbas folder/PSEB/Verilog/Week1/8bit_adder.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module adder_8bit
+
+Top level modules:
+	adder_8bit
+
+} {} {}} {C:/Alishbas folder/PSEB/Verilog/Week1/mux_2to1.v} {1 {vlog -work work -vopt -stats=none {C:/Alishbas folder/PSEB/Verilog/Week1/mux_2to1.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} {C:/Alishbas folder/PSEB/Verilog/Week1/full_adder.v} {1 {vlog -work work -vopt -stats=none {C:/Alishbas folder/PSEB/Verilog/Week1/full_adder.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} {C:/Alishbas folder/PSEB/Verilog/Week1/8bit_adder_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Alishbas folder/PSEB/Verilog/Week1/8bit_adder_tb.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module adder_8bit_tb
+
+Top level modules:
+	adder_8bit_tb
+
+} {} {}} {C:/Alishbas folder/PSEB/Verilog/Week1/subtractor_8bit_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Alishbas folder/PSEB/Verilog/Week1/subtractor_8bit_tb.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module subtractor_8bit_tb
+
+Top level modules:
+	subtractor_8bit_tb
+
+} {} {}} {C:/Alishbas folder/PSEB/Verilog/Week1/8bit_multiplier.v} {1 {vlog -work work -vopt -stats=none {C:/Alishbas folder/PSEB/Verilog/Week1/8bit_multiplier.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module multiplier_8bit
+
+Top level modules:
+	multiplier_8bit
+
+} {} {}} {C:/Alishbas folder/PSEB/Verilog/Week1/mux2to1tb.v} {1 {vlog -work work -vopt -stats=none {C:/Alishbas folder/PSEB/Verilog/Week1/mux2to1tb.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module mux2to1_tb
+
+Top level modules:
+	mux2to1_tb
+
+} {} {}} {C:/Alishbas folder/PSEB/Verilog/Week1/full_adder_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Alishbas folder/PSEB/Verilog/Week1/full_adder_tb.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module full_adder_tb
+
+Top level modules:
+	full_adder_tb
+
+} {} {}} {C:/Alishbas folder/PSEB/Verilog/Week1/subtractor_8bit.v} {1 {vlog -work work -vopt -stats=none {C:/Alishbas folder/PSEB/Verilog/Week1/subtractor_8bit.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module subtractor_8bit
+
+Top level modules:
+	subtractor_8bit
+
+} {} {}} {C:/Alishbas folder/PSEB/Verilog/Week1/logic_gates.v} {1 {vlog -work work -vopt -stats=none {C:/Alishbas folder/PSEB/Verilog/Week1/logic_gates.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module logic_gates
+
+Top level modules:
+	logic_gates
+
+} {} {}} {C:/Alishbas folder/PSEB/Verilog/Week1/gates_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Alishbas folder/PSEB/Verilog/Week1/gates_tb.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}
